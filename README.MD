@@ -7,6 +7,7 @@
 [教学视频](https://www.bilibili.com/video/av50200264/?p=3)
 [Bootstrap 起步](https://v3.bootcss.com/getting-started/)
 [Github OAuth](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/)
+[spring](https://docs.spring.io/spring-boot/docs/2.0.0.RC1/reference/htmlsingle/#boot-features-embedded-database-support)
 
 ##工具
 [Git](https://git-scm.com/download)
