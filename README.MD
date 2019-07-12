@@ -10,4 +10,4 @@
 
 ##工具
 [Git](https://git-scm.com/download)
-[Visual Paradigm](https://www.visual-paradigm.com/cn/)
+[Visual Paradigm](shttps://www.visual-paradigm.com/cn/)
